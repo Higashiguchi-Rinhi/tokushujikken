@@ -154,8 +154,7 @@ b_{31} & b_{32}
 $$ と定義すると、
 
 $$ 
-A+B =
-\begin{bmatrix}
+A+B = \begin{bmatrix}
 a_{11} & a_{12} \\
 a_{21} & a_{22} \\
 a_{31} & a_{32} 
@@ -164,8 +163,7 @@ a_{31} & a_{32}
 b_{11} & b_{12} \\
 b_{21} & b_{22} \\
 b_{31} & b_{32} 
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 a_{11}+b_{11} & a_{12}+b_{12} \\
 a_{21}+b_{21} & a_{21}+b_{22} \\
@@ -187,6 +185,7 @@ $$
 
 例えば
 
+
 $$
 \begin{bmatrix}
 1 & 2 \\
@@ -196,14 +195,12 @@ $$
 \begin{bmatrix}
 -3 & 4 & -2 \\
 1 & 5 & -1
-\end{bmatrix} \\
-=
+\end{bmatrix} \\=
 \begin{bmatrix}
 1\times(-3)+2\times1 & 1\times4+2\times5 & 1\times(-2)+2\times(-1) \\
 5\times(-3)-7\times1 & 5\times4-7\times5 & 5\times(-2)-7\times(-1) \\
 -4\times(-3)+3\times1 & -4\times4+3\times5 & -4\times(-2)+3\times(-1)
-\end{bmatrix} \\
-=
+\end{bmatrix} \\ =
 \begin{bmatrix}
 -1 & 14 & -4 \\
 -22 & -15 & -3 \\
