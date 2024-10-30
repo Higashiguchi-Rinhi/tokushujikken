@@ -1,54 +1,7 @@
-第2回 補足資料
+第3回 補足資料
 ================
 Higashiguchi Rinhi
-2024-10-30
-
-<style type="text/css">
-&#10;body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 14px;
-}
-&#10;h1.title {
-  font-size: 34px;
-  color: Black;
-}
-h1 { /* Header 1 */
-  font-size: 20px;
-  color: SteelBlue;
-}
-h2 { /* Header 2 */
-    font-size: 18px;
-  color: Black;
-}
-h3 { /* Header 3 */
-  font-size: 16px;
-  color: Black;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
-<style>
-.callout-box {
-    border: 1px solid #007bff;
-    background-color: #e9f5ff;
-    padding: 10px;
-    border-radius: 5px;
-}
-</style>
-&#10;<style>
-.hint-box {
-    border: 1px solid #007bff;
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-}
-</style>
+2024-10-24
 
 # 演習①
 
