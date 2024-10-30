@@ -182,7 +182,7 @@ $$
 
 ## 行列の掛け算
 
-まず、行列 $X$ と $Y$ の積 $XY$ が計算できるためには、$X$ の列数と $Y$ の行数が一致していなければならない。
+まず、行列 $X$ と $Y$ の積 $XY$ が計算できるためには、 $X$ の列数と $Y$ の行数が一致していなければならない。
 $Z=XY=\{z_{ij}\}$ とすると $z_{ij}$ は 
 
 $$
@@ -201,7 +201,7 @@ $$
 \begin{bmatrix}
 -3 & 4 & -2 \\
 1 & 5 & -1
-\end{bmatrix} \\=
+\end{bmatrix} \\ =
 \begin{bmatrix}
 1\times(-3)+2\times1 & 1\times4+2\times5 & 1\times(-2)+2\times(-1) \\
 5\times(-3)-7\times1 & 5\times4-7\times5 & 5\times(-2)-7\times(-1) \\
