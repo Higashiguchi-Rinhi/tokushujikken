@@ -1,6 +1,6 @@
 # Description
 
-Answers to multiple* scales used as part of an experimental personality test.
+Answers to multiple scales used as part of an experimental personality test.
 
 # Items
 
@@ -107,7 +107,7 @@ Assertiveness: http://ipip.ori.org/newCPIKey.htm#Assertiveness
 
 Social confidence: https://ipip.ori.org/newJPI-RKey.htm#social-confidence
 
-Adventurousness: https://ipip.ori.org/newNEOKey.htm#Assertiveness
+Adventurousness: https://ipip.ori.org/newNEOKey.htm#Adventurousness
 
 Dominance: https://ipip.ori.org/newCPIKey.htm#dominance
 
