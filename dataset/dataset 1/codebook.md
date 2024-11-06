@@ -4,17 +4,27 @@ An overview of flow theory is presented from the literature across multiple disc
 # Item list
 
 Item 1: When using the web site, I felt in control. 
+
 Item 2: I felt that I had no control over my interaction with the site.*
+
 Item 3: The site allowed me to control the computer interaction.
+
 Item 4: When using the site, I thought about other things.* 
+
 Item 5: When using the site, I was aware of distractions.* 
-Item 6: The site allowed me to control the computer
-interaction. 
+
+Item 6: The site allowed me to control the computer interaction. 
+
 Item 7: Using the site excited my curiosity.
+
 Item 8: Interacting with the site made me curious.
+
 Item 9: Using the site aroused my imagination.
+
 Item 10: Using the site bored me.* 
+
 Item 11: Using the site was intrinsically interesting. 
+
 Item 12: The site was fun for me to use. 
 
 An asterisk (*) indicates an item is reverse-coded, as stated in the original scale.
