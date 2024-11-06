@@ -88,7 +88,7 @@ Q39 Lay down the law to others.
 
 Q40 Put people under pressure.
 
-逆転項目*のついている項目。[Scales used]を参照。
+逆転項目*のついている項目。[Scales used](#Scales-used) を参照。
 
 The last page of the test had users affirm that their answers were accurate and suitable for research (those that did not have been removed) and enter the following info:
 
