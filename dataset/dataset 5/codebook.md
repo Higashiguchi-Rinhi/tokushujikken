@@ -1,6 +1,6 @@
 # Description
 
-The Humor Styles Questionnaire is a 32-item self-report inventory used to identify how individuals use humor in their lives. Participants respond to the degree to which they agree with each statement (e.g., "I enjoy making people laugh") on a scale from 1 (totally disagree) to 7 (totally agree). The questionnaire measures two main factors in humor. The first factor measures whether humor is used to enhance the self or enhance one's relationships with others. The second factor measures whether the humor is relatively benevolent or potentially detrimental and destructive. The combination of these factors creates four distinct humor styles: affiliative, self-enhancing, aggressive, and self-defeating.
+The Humor Styles Questionnaire is a 32-item self-report inventory used to identify how individuals use humor in their lives. Participants respond to the degree to which they agree with each statement (e.g., "I enjoy making people laugh") on a scale from 1 (totally disagree) to 7 (totally agree). 
 
 # Items
 This data was collection with an interactive online version of the Humor Styles Questionnaire from
