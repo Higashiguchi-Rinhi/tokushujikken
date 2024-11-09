@@ -8,6 +8,8 @@
 https://forms.gle/PixeLR17YAe1NWLU9
 
 ## 参考
+間違いに気づいた際はご連絡ください。
+
 「five_subject_score_n20p5.csv」及び「simulated_height_data_n100.csv」は以下から頂戴しております。
 
 https://github.com/khijikata/misc.git
